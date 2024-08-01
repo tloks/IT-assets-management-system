@@ -8,6 +8,7 @@ Features
    3.  Reporting: Generates reports based on various filters such as checkout date, check-in date, and employee department.
    4.  Asset Categorization: Categorizes IT assets for easy tracking and management.
    5.  Status Update: Updates the status of assets to reflect whether they are checked out or available.
+   6.  Asset history: allows user to see history of an asset by asset tag
 
 Installation
 
