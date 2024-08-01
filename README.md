@@ -16,7 +16,7 @@ Installation
 
   bash
 
-    git clone https://github.com/your-username/it-asset-management-system.git
+    git clone https://github.com/tloks/It-assets-management-system.git
 
   Open the Database:
       Open the ITAssetManagement.accdb file in Microsoft Access.
